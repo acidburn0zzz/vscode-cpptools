@@ -1407,7 +1407,7 @@
     "jsonc-parser": "^1.0.0",
     "minimatch": "~3.0.4",
     "mkdirp": "~0.5.1",
-    "tmp": "~0.0.33",
+    "tmp": "~0.2.4",
     "vscode-cpptools": "2.1.1",
     "vscode-debugadapter": "~1.24.0",
     "vscode-debugprotocol": "~1.24.0",
